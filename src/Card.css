@@ -1,0 +1,33 @@
+
+
+.poke-card {
+    margin-top: 1rem;
+  }
+  
+  .poke-title {
+    text-transform: capitalize;
+    color: #333;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+  }
+  
+  .poke-img {
+    width: 120px;
+    height: 120px;
+    margin: 1rem 0;
+  }
+  
+  .poke-abilities {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto;
+    background: #f9f9f9;
+    color:black;
+    padding: 0.5rem 1.2rem;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+  }
+  
+  .poke-abilities li {
+    text-transform: capitalize;
+  }
